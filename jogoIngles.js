@@ -121,4 +121,3 @@ const playAgain = () => {
 };
 
 getDifficulty(); // Call the function to start the game, asking for difficulty
-
